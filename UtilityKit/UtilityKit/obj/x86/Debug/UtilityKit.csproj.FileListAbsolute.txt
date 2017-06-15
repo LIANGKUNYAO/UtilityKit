@@ -1,0 +1,13 @@
+C:\WORKSPACE\UtilityKit\UtilityKit\bin\Debug\UtilityKit.exe.config
+C:\WORKSPACE\UtilityKit\UtilityKit\bin\Debug\UtilityKit.exe
+C:\WORKSPACE\UtilityKit\UtilityKit\bin\Debug\UtilityKit.pdb
+C:\WORKSPACE\UtilityKit\UtilityKit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\WORKSPACE\UtilityKit\UtilityKit\obj\x86\Debug\UtilityKit.Properties.Resources.resources
+C:\WORKSPACE\UtilityKit\UtilityKit\obj\x86\Debug\UtilityKit.UtilityKit.resources
+C:\WORKSPACE\UtilityKit\UtilityKit\obj\x86\Debug\ResGen.read.1.tlog
+C:\WORKSPACE\UtilityKit\UtilityKit\obj\x86\Debug\ResGen.write.1.tlog
+C:\WORKSPACE\UtilityKit\UtilityKit\obj\x86\Debug\UtilityKit.exe
+C:\WORKSPACE\UtilityKit\UtilityKit\obj\x86\Debug\UtilityKit.pdb
+C:\GitSpace\UtilityKit\UtilityKit\bin\Debug\UtilityKit.exe.config
+C:\GitSpace\UtilityKit\UtilityKit\obj\x86\Debug\UtilityKit.exe
+C:\GitSpace\UtilityKit\UtilityKit\obj\x86\Debug\UtilityKit.pdb
